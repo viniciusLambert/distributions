@@ -15,7 +15,7 @@ To install the local code, after clone the repository:
 
 ```
 cd distributions_package
-pip intall .
+pip install .
 ```
 
 
